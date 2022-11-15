@@ -1,0 +1,19 @@
+Origin: Unknown
+Label: Unknown
+Suite: Unknown
+Codename: Unknown
+Date: Tue, 15 Nov 2022 14:30:36 +0300
+Architectures: Unknown
+Components: my-alt-test-repo
+Description: Not Available
+MD5Sum:
+ ddd18cbd3ebf49ed66dcd81ec9b88e4a 4528 base/pkglist.my-alt-test-repo
+ 9a1a1ecd87005f048a507f8c980a4145 2264 base/pkglist.my-alt-test-repo.bz2
+ ecef9f7ebac167afaee3de3c2c766a28 1988 base/pkglist.my-alt-test-repo.xz
+ 8d319e3e910a9d1f59d6080b76e6d1b5 135 base/release.my-alt-test-repo
+BLAKE2b:
+ f6f3980c265da9711277eae8038ea91346b930b1ddda132d48d887b37489f1f7985055dd81d3450ef9d3f4819e5a696dce57246364decd35f616241c0fae3a66 4528 base/pkglist.my-alt-test-repo
+ d55103779d616a12f6087dd8ae1419bbeda4c056f3453d64db64f697fbe3bc2f259d64c05bf819647033905857733ddfe68a12ba2e393dafa51663408ed7d38d 2264 base/pkglist.my-alt-test-repo.bz2
+ 0edd27825ea590d69d64f3ce88b0d3daaef0cb3812b6cd02c8dfc17f629f8db6bcb3d6b56a2f54744b2e5b8ccf6536e01511071d01868a12e3fa20401fd53025 1988 base/pkglist.my-alt-test-repo.xz
+ 2f6ea9ed59bdc0dffb3857c0b04bcfef7181f9c39048bb7777e510fa0c6ae628d8eb2dc183e3fb66b109d74374488f983a755c008e49375af12e3cf3cc56cd0c 135 base/release.my-alt-test-repo
+
